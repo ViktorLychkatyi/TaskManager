@@ -46,7 +46,6 @@
             columnHeader3 = new ColumnHeader();
             columnHeader4 = new ColumnHeader();
             textBox1 = new TextBox();
-            button1 = new Button();
             contextMenuStrip1.SuspendLayout();
             SuspendLayout();
             // 
@@ -153,31 +152,22 @@
             // 
             // columnHeader4
             // 
+            columnHeader4.Text = "Приоритет процесса";
             columnHeader4.Width = 200;
             // 
             // textBox1
             // 
             textBox1.Location = new Point(0, 1);
             textBox1.Name = "textBox1";
-            textBox1.Size = new Size(464, 23);
+            textBox1.Size = new Size(549, 23);
             textBox1.TabIndex = 3;
             textBox1.TextChanged += textBox1_TextChanged;
-            // 
-            // button1
-            // 
-            button1.Location = new Point(460, 0);
-            button1.Name = "button1";
-            button1.Size = new Size(89, 23);
-            button1.TabIndex = 4;
-            button1.Text = "Нажать";
-            button1.UseVisualStyleBackColor = true;
             // 
             // MainWindow
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(548, 260);
-            Controls.Add(button1);
             Controls.Add(textBox1);
             Controls.Add(listView1);
             Name = "MainWindow";
@@ -203,7 +193,6 @@
         private ToolStripMenuItem новыйПроцессToolStripMenuItem;
         private ToolStripMenuItem выходToolStripMenuItem;
         private TextBox textBox1;
-        private Button button1;
         private ColumnHeader columnHeader1;
         private ColumnHeader columnHeader2;
         private ColumnHeader columnHeader3;

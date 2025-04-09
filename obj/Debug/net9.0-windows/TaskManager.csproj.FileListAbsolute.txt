@@ -16,3 +16,4 @@ C:\Users\Viktor\Desktop\TaskManager\obj\Debug\net9.0-windows\TaskManager.genrunt
 C:\Users\Viktor\Desktop\TaskManager\obj\Debug\net9.0-windows\ref\TaskManager.dll
 C:\Users\Viktor\Desktop\TaskManager\obj\Debug\net9.0-windows\TaskManager.Properties.Resources.resources
 C:\Users\Viktor\Desktop\TaskManager\obj\Debug\net9.0-windows\TaskManager.Forms.NewProcess.resources
+C:\Users\Viktor\Desktop\TaskManager\obj\Debug\net9.0-windows\TaskManager.sourcelink.json

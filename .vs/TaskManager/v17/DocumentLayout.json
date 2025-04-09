@@ -3,19 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\Viktor\\Desktop\\TaskManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C6C480CF-5363-4A50-AF9F-FE85807B49CE}|TaskManager.csproj|c:\\users\\viktor\\desktop\\taskmanager\\forms\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6C480CF-5363-4A50-AF9F-FE85807B49CE}|TaskManager.csproj|solutionrelative:forms\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C6C480CF-5363-4A50-AF9F-FE85807B49CE}|TaskManager.csproj|c:\\users\\viktor\\desktop\\taskmanager\\forms\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C6C480CF-5363-4A50-AF9F-FE85807B49CE}|TaskManager.csproj|solutionrelative:forms\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C480CF-5363-4A50-AF9F-FE85807B49CE}|TaskManager.csproj|c:\\users\\viktor\\desktop\\taskmanager\\forms\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C480CF-5363-4A50-AF9F-FE85807B49CE}|TaskManager.csproj|solutionrelative:forms\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6C480CF-5363-4A50-AF9F-FE85807B49CE}|TaskManager.csproj|c:\\users\\viktor\\desktop\\taskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6C480CF-5363-4A50-AF9F-FE85807B49CE}|TaskManager.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6C480CF-5363-4A50-AF9F-FE85807B49CE}|TaskManager.csproj|c:\\users\\viktor\\desktop\\taskmanager\\forms\\newprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C6C480CF-5363-4A50-AF9F-FE85807B49CE}|TaskManager.csproj|C:\\Users\\Viktor\\Desktop\\TaskManager\\forms\\newprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C6C480CF-5363-4A50-AF9F-FE85807B49CE}|TaskManager.csproj|solutionrelative:forms\\newprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 383,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.cs",
               "DocumentMoniker": "C:\\Users\\Viktor\\Desktop\\TaskManager\\Forms\\MainWindow.cs",
               "RelativeDocumentMoniker": "Forms\\MainWindow.cs",
@@ -51,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\Viktor\\Desktop\\TaskManager\\Forms\\MainWindow.cs",
               "RelativeDocumentMoniker": "Forms\\MainWindow.cs",
@@ -83,8 +83,7 @@
               "ToolTip": "C:\\Users\\Viktor\\Desktop\\TaskManager\\Forms\\NewProcess.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "Forms\\NewProcess.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T20:44:15.456Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2025-04-08T20:44:15.456Z"
             },
             {
               "$type": "Document",
@@ -96,8 +95,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T09:34:04.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T09:34:04.974Z"
             },
             {
               "$type": "Document",
@@ -109,8 +107,7 @@
               "RelativeToolTip": "DllImports.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAArwAIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T09:29:02.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T09:29:02.601Z"
             }
           ]
         }
